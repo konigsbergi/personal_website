@@ -1,5 +1,5 @@
 
-# konigsbergiDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to my personal website for research and professional updates. 
 
 Visit **[website url](#)** 🚀
 
