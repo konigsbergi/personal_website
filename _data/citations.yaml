@@ -24,8 +24,17 @@
   date: '2024-02-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38464285
   term: Konigsberg, I[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: We identified sparse networks of proteins associated with FEV1, emphysema,
+    and smoking status in the COPDGene study. We performed genome-wide association
+    studies on summary measures of these networks.
+  image: https://www.medrxiv.org/content/medrxiv/early/2024/02/28/2024.02.26.24303069/F5.large.jpg
+  tags:
+  - proteomics
+  - networks
+  - genetics
 - id: pubmed:38045372
   title: 'SmCCNet 2.0: A Comprehensive Tool for Multi-omics Network Inference with
     Shiny Visualization.'
@@ -1078,37 +1087,3 @@
   term: Konigsberg, I[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: doi:10.1101/2024.02.26.24303069
-  title: Proteomic Networks and Related Genetic Variants Associated with Smoking and
-    Chronic Obstructive Pulmonary Disease
-  authors:
-  - Iain R Konigsberg
-  - Thao Vu
-  - Weixuan Liu
-  - Elizabeth M Litkowski
-  - Katherine A Pratte
-  - Luciana B Vargas
-  - Niles Gilmore
-  - Mohamed Abdel-Hafiz
-  - Ani W Manichaikul
-  - Michael H Cho
-  - Craig P Hersh
-  - Dawn L DeMeo
-  - Farnoush Banaei-Kashani
-  - Russell P Bowler
-  - Leslie A Lange
-  - Katerina J Kechris
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-02-28'
-  link: https://doi.org/gtt588
-  type: paper
-  description: We identified sparse networks of proteins associated with FEV1, emphysema,
-    and smoking status in the COPDGene study. We performed genome-wide association
-    studies on summary measures of these networks.
-  image: https://www.medrxiv.org/content/medrxiv/early/2024/02/28/2024.02.26.24303069/F5.large.jpg
-  tags:
-  - proteomics
-  - networks
-  - genetics
-  plugin: sources.py
-  file: sources.yaml
