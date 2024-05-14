@@ -1,9 +1,40 @@
-- id: pubmed:38464285
+- id: doi:10.1101/2024.02.26.24303069
   type: paper
   description: We identified sparse networks of proteins associated with FEV1, emphysema, and smoking status in the COPDGene study. We performed genome-wide association studies on summary measures of these networks. 
   date: 2024-02-28
   image: https://www.medrxiv.org/content/medrxiv/early/2024/02/28/2024.02.26.24303069/F5.large.jpg
   tags:
+    - COPD
     - proteomics
-    - networks
     - genetics
+
+- id: doi:10.1093/bioinformatics/btae148
+  date: 2024
+  tags:
+    - genetics
+
+- id: doi:10.1101/2023.11.20.567893
+- id: doi:10.1101/2023.10.30.564764
+- id: doi:10.1111/acel.14025
+- id: doi:10.1002/ajpa.24842
+- id: doi:10.3390/nu15163588
+- id: doi:10.1038/s41598-023-34866-6
+- id: doi:10.1101/2023.01.26.525601
+- id: doi:10.1038/s41366-022-01240-x
+- id: doi:10.1165/rcmb.2022-0077OC
+- id: doi:10.1186/s40246-022-00401-3
+- id: doi:10.1164/rccm.202110-2308OC
+- id: doi:10.1093/molbev/msac081
+- id: doi:10.1165/rcmb.2022-0125ED
+- id: doi:10.1038/s43856-021-00042-y
+- id: doi:10.1038/s43856-021-00042-y
+- id: doi:10.1183/16000617.0076-2021
+- id: doi:10.1165/rcmb.2020-0546OC
+- id: doi:10.1002/oby.23127
+- id: doi:10.1183/13993003.03794-2020
+- id: doi:10.1016/j.chest.2020.07.050
+- id: doi:10.1164/rccm.202001-0134OC
+- id: doi:10.1038/s41467-019-12158-w
+- id: doi:10.1038/s41467-019-08469-7
+- id: doi:10.1165/rcmb.2018-0177OC
+
