@@ -1,8 +1,8 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: pubmed:38464285
+- id: doi:10.1101/2024.02.26.24303069
   title: Proteomic Networks and Related Genetic Variants Associated with Smoking and
-    Chronic Obstructive Pulmonary Disease.
+    Chronic Obstructive Pulmonary Disease
   authors:
   - Iain R Konigsberg
   - Thao Vu
@@ -20,17 +20,891 @@
   - Russell P Bowler
   - Leslie A Lange
   - Katerina J Kechris
-  publisher: 'medRxiv : the preprint server for health sciences'
+  publisher: Cold Spring Harbor Laboratory
   date: '2024-02-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38464285
+  link: https://doi.org/gtt588
   type: paper
   description: We identified sparse networks of proteins associated with FEV1, emphysema,
     and smoking status in the COPDGene study. We performed genome-wide association
     studies on summary measures of these networks.
   image: https://www.medrxiv.org/content/medrxiv/early/2024/02/28/2024.02.26.24303069/F5.large.jpg
   tags:
+  - COPD
   - proteomics
-  - networks
   - genetics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btae148
+  title: 'Admix-kit: an integrated toolkit and pipeline for genetic analyses of admixed
+    populations'
+  authors:
+  - Kangcheng Hou
+  - Stephanie Gogarten
+  - Joohyun Kim
+  - Xing Hua
+  - Julie-Alexia Dias
+  - Quan Sun
+  - Ying Wang
+  - Taotao Tan
+  - Sally Adebamowo
+  - Adebowale Adeyemo
+  - Paul Auer
+  - Taoufik Bensellak
+  - Sonja Berndt
+  - Rohan Bhukar
+  - Hongyuan Cao
+  - Clinton Cario
+  - Nilanjan Chatterjee
+  - Jiawen Chen
+  - Tinashe Chikowore
+  - Ananyo Choudhury
+  - Matthew Conomos
+  - David Conti
+  - Sinead Cullina
+  - Burcu Darst
+  - Yi Ding
+  - Ruocheng Dong
+  - Rui Duan
+  - Yasmina Fakim
+  - Nora Franceschini
+  - Tian Ge
+  - Anisah W Ghoorah
+  - Chris Gignoux
+  - Stephanie Gogarten
+  - Neil Hanchard
+  - Rachel Hanisch
+  - Michael Hauser
+  - Scott Hazelhurst
+  - Jibril Hirbo
+  - Whitney Hornsby
+  - Kangcheng Hou
+  - Xing Hua
+  - Alicia Huerta
+  - Micah Hysong
+  - Jin Jin
+  - Angad Johar
+  - Jon Judd
+  - Linda Kachuri
+  - Abram Bunya Kamiza
+  - Eimear Kenny
+  - Alyna Khan
+  - Elena Kharitonova
+  - Joohyun Kim
+  - Iain Konigsberg
+  - Charles Kooperberg
+  - Matt Kosel
+  - Iftikhar Kullo
+  - Ethan Lange
+  - Yun Li
+  - Qing Li
+  - Maria Liivrand
+  - Kirk Lohmueller
+  - Kevin Lu
+  - Ravi Mandla
+  - Alisa Manning
+  - Iman Martin
+  - Alicia Martin
+  - Shannon McDonnell
+  - Leah Mechanic
+  - Josep Mercader
+  - Rachel Mester
+  - Maggie Ng
+  - Kevin Nguyen
+  - "Kristj\xE1n Norland"
+  - Franklin Ockerman
+  - Loes Olde Loohuis
+  - Ebuka Onyenobi
+  - Bogdan Pasaniuc
+  - Aniruddh Patel
+  - Ella Petter
+  - Kenneth Rice
+  - Joseph Rothstein
+  - Bryce Rowan
+  - Robb Rowley
+  - Yunfeng Ruan
+  - Sriram Sankararaman
+  - Ambra Sartori
+  - Dan Schaid
+  - Ruhollah Shemirani
+  - Jonathan Shortt
+  - Xueling Sim
+  - Johanna L Smith
+  - Maggie Stanislawski
+  - Daniel Stram
+  - Quan Sun
+  - Bamidele Tayo
+  - Buu Truong
+  - Kristin Tsuo
+  - Sarah Urbut
+  - Ying Wang
+  - Wallace Minxian Wang
+  - Riley Wilson
+  - John Witte
+  - Genevieve Wojcik
+  - Jingning Zhang
+  - Ruyue Zhang
+  - Haoyu Zhang
+  - Yuji Zhang
+  - Michael Zhong
+  - Laura Zhou
+  - Elizabeth G Atkinson
+  - Alicia Martin
+  - Jonathan Shortt
+  - Jibril Hirbo
+  - Yun Li
+  - Bogdan Pasaniuc
+  - Haoyu Zhang
+  publisher: Bioinformatics
+  date: '2024-03-15'
+  link: https://doi.org/gtt6d5
+  tags:
+  - genetics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.11.20.567893
+  title: 'SmCCNet 2.0: A Comprehensive Tool for Multi-omics Network Inference with
+    Shiny Visualization'
+  authors:
+  - Weixuan Liu
+  - Thao Vu
+  - Iain Konigsberg
+  - Katherine Pratte
+  - Yonghua Zhuang
+  - Katerina Kechris
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-21'
+  link: https://doi.org/gtt589
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.10.30.564764
+  title: A statistical framework for powerful multi-trait rare variant analysis in
+    large-scale whole-genome sequencing studies
+  authors:
+  - Xihao Li
+  - Han Chen
+  - Margaret Sunitha Selvaraj
+  - Eric Van Buren
+  - Hufeng Zhou
+  - Yuxuan Wang
+  - Ryan Sun
+  - Zachary R. McCaw
+  - Zhi Yu
+  - Donna K. Arnett
+  - Joshua C. Bis
+  - John Blangero
+  - Eric Boerwinkle
+  - Donald W. Bowden
+  - Jennifer A. Brody
+  - Brian E. Cade
+  - April P. Carson
+  - Jenna C. Carlson
+  - Nathalie Chami
+  - Yii-Der Ida Chen
+  - Joanne E. Curran
+  - Paul S. de Vries
+  - Myriam Fornage
+  - Nora Franceschini
+  - Barry I. Freedman
+  - Charles Gu
+  - Nancy L. Heard-Costa
+  - Jiang He
+  - Lifang Hou
+  - Yi-Jen Hung
+  - Marguerite R. Irvin
+  - Robert C. Kaplan
+  - Sharon L.R. Kardia
+  - Tanika Kelly
+  - Iain Konigsberg
+  - Charles Kooperberg
+  - Brian G. Kral
+  - Changwei Li
+  - Ruth J.F. Loos
+  - Michael C. Mahaney
+  - Lisa W. Martin
+  - Rasika A. Mathias
+  - Ryan L. Minster
+  - Braxton D. Mitchell
+  - May E. Montasser
+  - Alanna C. Morrison
+  - Nicholette D. Palmer
+  - Patricia A. Peyser
+  - Bruce M. Psaty
+  - Laura M. Raffield
+  - Susan Redline
+  - Alexander P. Reiner
+  - Stephen S. Rich
+  - Colleen M. Sitlani
+  - Jennifer A. Smith
+  - Kent D. Taylor
+  - Hemant Tiwari
+  - Ramachandran S. Vasan
+  - Zhe Wang
+  - Lisa R. Yanek
+  - Bing Yu
+  - Kenneth M. Rice
+  - Jerome I. Rotter
+  - Gina M. Peloso
+  - Pradeep Natarajan
+  - Zilin Li
+  - Zhonghua Liu
+  - Xihong Lin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-02'
+  link: https://doi.org/gtt6d6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/acel.14025
+  title: 'Skeletal muscle DNA methylation: Effects of exercise and HIV'
+  authors:
+  - Catherine M. Jankowski
+  - Iain R. Konigsberg
+  - Melissa P. Wilson
+  - Jing Sun
+  - Todd T. Brown
+  - Colleen G. Julian
+  - Kristine M. Erlandson
+  publisher: Aging Cell
+  date: '2023-11-03'
+  link: https://doi.org/gtt6d7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajpa.24842
+  title: '<scp>TestDimorph</scp>: An R package for analysis of interpopulation sexual
+    dimorphism differences using summary statistics'
+  authors:
+  - Bassam A. Abulnoor
+  - MennattAllah Hassan Attia
+  - Iain R. Konigsberg
+  - Lyle W. Konigsberg
+  publisher: American Journal of Biological Anthropology
+  date: '2023-09-11'
+  link: https://doi.org/gtt59b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/nu15163588
+  title: The Microbiome, Epigenome, and Diet in Adults with Obesity during Behavioral
+    Weight Loss
+  authors:
+  - Emily B. Hill
+  - Iain R. Konigsberg
+  - Diana Ir
+  - Daniel N. Frank
+  - Purevsuren Jambal
+  - Elizabeth M. Litkowski
+  - Ethan M. Lange
+  - Leslie A. Lange
+  - Danielle M. Ostendorf
+  - Jared J. Scorsone
+  - Liza Wayland
+  - Kristen Bing
+  - Paul S. MacLean
+  - Edward L. Melanson
+  - Daniel H. Bessesen
+  - Victoria A. Catenacci
+  - Maggie A. Stanislawski
+  - Sarah J. Borengasser
+  publisher: Nutrients
+  date: '2023-08-16'
+  link: https://doi.org/gtt6d8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-34866-6
+  title: Large scale proteomic studies create novel privacy considerations
+  authors:
+  - Andrew C. Hill
+  - Claire Guo
+  - Elizabeth M. Litkowski
+  - Ani W. Manichaikul
+  - Bing Yu
+  - Iain R. Konigsberg
+  - Betty A. Gorbet
+  - Leslie A. Lange
+  - Katherine A. Pratte
+  - Katerina J. Kechris
+  - Matthew DeCamp
+  - Marilyn Coors
+  - Victor E. Ortega
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Robert E. Gerzsten
+  - Clary B. Clish
+  - Jeffrey L. Curtis
+  - Xiaowei Hu
+  - Ma-en Obeidat
+  - Melody Morris
+  - Joseph Loureiro
+  - Debby Ngo
+  - "Wanda K. O\u2019Neal"
+  - Deborah A. Meyers
+  - Eugene R. Bleecker
+  - Brian D. Hobbs
+  - Michael H. Cho
+  - Farnoush Banaei-Kashani
+  - Russell P. Bowler
+  publisher: Scientific Reports
+  date: '2023-06-07'
+  link: https://doi.org/gtt59c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.01.26.525601
+  title: Multi-Omic Signatures of Sarcoidosis and Progression in Bronchoalveolar Lavage
+    Cells
+  authors:
+  - Iain R. Konigsberg
+  - Nancy W. Lin
+  - Shu-Yi Liao
+  - Cuining Liu
+  - Kristyn MacPhail
+  - Margaret M. Mroz
+  - Elizabeth Davidson
+  - Clara I. Restrepo
+  - Sunita Sharma
+  - Li Li
+  - Lisa A. Maier
+  - Ivana V. Yang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-27'
+  link: https://doi.org/gtt59d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41366-022-01240-x
+  title: Gene expression associations with body mass index in the Multi-Ethnic Study
+    of Atherosclerosis
+  authors:
+  - Luciana B. Vargas
+  - Leslie A. Lange
+  - Kendra Ferrier
+  - "Fran\xE7ois Aguet"
+  - Kristin Ardlie
+  - Stacey Gabriel
+  - Namrata Gupta
+  - Joshua D. Smith
+  - Thomas W. Blackwell
+  - Jingzhong Ding
+  - Peter Durda
+  - Russell P. Tracy
+  - Yongmei Liu
+  - Kent D. Taylor
+  - W. Craig Johnson
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Ethan M. Lange
+  - Iain R. Konigsberg
+  publisher: International Journal of Obesity
+  date: '2022-12-03'
+  link: https://doi.org/grnr9m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1165/rcmb.2022-0077OC
+  title: Multiomic Signatures of Chronic Beryllium Disease Bronchoalveolar Lavage
+    Cells Relate to T-Cell Function and Innate Immunity
+  authors:
+  - Li Li
+  - Iain R. Konigsberg
+  - Maneesh Bhargava
+  - Sucai Liu
+  - Kristyn MacPhail
+  - Annyce Mayer
+  - Elizabeth J. Davidson
+  - Shu-Yi Liao
+  - Zhe Lei
+  - Peggy M. Mroz
+  - Tasha E. Fingerlin
+  - Ivana V. Yang
+  - Lisa A. Maier
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2022-12-01'
+  link: https://doi.org/gtt59f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s40246-022-00401-3
+  title: Epigenetics may characterize asymptomatic COVID-19 infection
+  authors:
+  - Cosby G. Arnold
+  - Iain Konigsberg
+  - Jason Y. Adams
+  - Sunita Sharma
+  - Neil Aggarwal
+  - Andrew Hopkinson
+  - Alexis Vest
+  - Monica Campbell
+  - Meher Boorgula
+  - Ivana Yang
+  - Christopher Gignoux
+  - Kathleen C. Barnes
+  - Andrew A. Monte
+  publisher: Human Genomics
+  date: '2022-07-27'
+  link: https://doi.org/gtt6d9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1164/rccm.202110-2308OC
+  title: Colocalization of Gene Expression and DNA Methylation with Genetic Risk Variants
+    Supports Functional Roles of <i>MUC5B</i> and <i>DSP</i> in Idiopathic Pulmonary
+    Fibrosis
+  authors:
+  - Raphael Borie
+  - Jonathan Cardwell
+  - Iain R. Konigsberg
+  - Camille M. Moore
+  - Weiming Zhang
+  - Sarah K. Sasse
+  - Fabienne Gally
+  - Evgenia Dobrinskikh
+  - Avram Walts
+  - Julie Powers
+  - Janna Brancato
+  - Mauricio Rojas
+  - Paul J. Wolters
+  - Kevin K. Brown
+  - Timothy S. Blackwell
+  - Tomoko Nakanishi
+  - J. Brent Richards
+  - Anthony N. Gerber
+  - Tasha E. Fingerlin
+  - Norman Sachs
+  - Sara L. Pulit
+  - Zachary Zappala
+  - David A. Schwartz
+  - Ivana V. Yang
+  publisher: American Journal of Respiratory and Critical Care Medicine
+  date: '2022-11-15'
+  link: https://doi.org/gtt59g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/molbev/msac081
+  title: Rates of Mutations and Transcript Errors in the Foodborne Pathogen<i>Salmonella
+    enterica</i>subsp.<i>enterica</i>
+  authors:
+  - Jiao Pan
+  - Weiyi Li
+  - Jiahao Ni
+  - Kun Wu
+  - Iain Konigsberg
+  - Caitlyn E. Rivera
+  - Clayton Tincher
+  - Colin Gregory
+  - Xia Zhou
+  - Thomas G. Doak
+  - Heewook Lee
+  - Yan Wang
+  - Xiang Gao
+  - Michael Lynch
+  - Hongan Long
+  publisher: Molecular Biology and Evolution
+  date: '2022-04-01'
+  link: https://doi.org/gtt6fb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1165/rcmb.2022-0125ED
+  title: Differential Methylation of Chronic Obstructive Pulmonary Disease Lung Macrophage
+    Genes Sheds Light on Disease Pathogenesis
+  authors:
+  - Iain R. Konigsberg
+  - Ivana V. Yang
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2022-06-01'
+  link: https://doi.org/gtt6fc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s43856-021-00042-y
+  title: Host methylation predicts SARS-CoV-2 infection and clinical outcome
+  authors:
+  - Iain R. Konigsberg
+  - Bret Barnes
+  - Monica Campbell
+  - Elizabeth Davidson
+  - Yingfei Zhen
+  - Olivia Pallisard
+  - Meher Preethi Boorgula
+  - Corey Cox
+  - Debmalya Nandy
+  - Souvik Seal
+  - Kristy Crooks
+  - Evan Sticca
+  - Genelle F. Harrison
+  - Andrew Hopkinson
+  - Alexis Vest
+  - Cosby G. Arnold
+  - Michael G. Kahn
+  - David P. Kao
+  - Brett R. Peterson
+  - Stephen J. Wicks
+  - Debashis Ghosh
+  - Steve Horvath
+  - Wanding Zhou
+  - Rasika A. Mathias
+  - Paul J. Norman
+  - Rishi Porecha
+  - Ivana V. Yang
+  - Christopher R. Gignoux
+  - Andrew A. Monte
+  - Alem Taye
+  - Kathleen C. Barnes
+  publisher: Communications Medicine
+  date: '2021-10-26'
+  link: https://doi.org/gqbxvz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1183/16000617.0076-2021
+  title: Epigenetics and sarcoidosis
+  authors:
+  - Iain R. Konigsberg
+  - Lisa A. Maier
+  - Ivana V. Yang
+  publisher: European Respiratory Review
+  date: '2021-06-23'
+  link: https://doi.org/gtt59h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1165/rcmb.2020-0546OC
+  title: Molecular Signatures of Idiopathic Pulmonary Fibrosis
+  authors:
+  - Iain R. Konigsberg
+  - Raphael Borie
+  - Avram D. Walts
+  - Jonathan Cardwell
+  - Mauricio Rojas
+  - Fabian Metzger
+  - Stefanie M. Hauck
+  - Tasha E. Fingerlin
+  - Ivana V. Yang
+  - David A. Schwartz
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2021-10-01'
+  link: https://doi.org/gj7p22
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/oby.23127
+  title: "Multiomic Predictors of Short\u2010Term Weight Loss and Clinical Outcomes\
+    \ During a Behavioral\u2010Based Weight Loss Intervention"
+  authors:
+  - Janet C. Siebert
+  - Maggie A. Stanislawski
+  - Adnin Zaman
+  - Danielle M. Ostendorf
+  - Iain R. Konigsberg
+  - Purevsuren Jambal
+  - Diana Ir
+  - Kristen Bing
+  - Liza Wayland
+  - Jared J. Scorsone
+  - Catherine A. Lozupone
+  - "Carsten G\xF6rg"
+  - Daniel N. Frank
+  - Daniel Bessesen
+  - Paul S. MacLean
+  - Edward L. Melanson
+  - Victoria A. Catenacci
+  - Sarah J. Borengasser
+  publisher: Obesity
+  date: '2021-04-03'
+  link: https://doi.org/gtt59k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1183/13993003.03794-2020
+  title: Single-cell RNA sequencing identifies macrophage transcriptional heterogeneities
+    in granulomatous diseases
+  authors:
+  - Shu-Yi Liao
+  - Shaikh M. Atif
+  - Kara Mould
+  - Iain R. Konigsberg
+  - Rui Fu
+  - Elizabeth Davidson
+  - Li Li
+  - Andrew P. Fontenot
+  - Lisa A. Maier
+  - Ivana V. Yang
+  publisher: European Respiratory Journal
+  date: '2021-02-18'
+  link: https://doi.org/gtt59j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chest.2020.07.050
+  title: "It\u2019s in the (Epi)genetics"
+  authors:
+  - Iain R. Konigsberg
+  - Ivana V. Yang
+  publisher: Chest
+  date: '2020-11-01'
+  link: https://doi.org/gtt59n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1164/rccm.202001-0134OC
+  title: Chronic Hypersensitivity Pneumonitis, an Interstitial Lung Disease with Distinct
+    Molecular Signatures
+  authors:
+  - Haruhiko Furusawa
+  - Jonathan H. Cardwell
+  - Tsukasa Okamoto
+  - Avram D. Walts
+  - Iain R. Konigsberg
+  - Jonathan S. Kurche
+  - Tami J. Bang
+  - Marvin I. Schwarz
+  - Kevin K. Brown
+  - Jonathan A. Kropski
+  - Mauricio Rojas
+  - Carlyne D. Cool
+  - Joyce S. Lee
+  - Paul J. Wolters
+  - Ivana V. Yang
+  - David A. Schwartz
+  publisher: American Journal of Respiratory and Critical Care Medicine
+  date: '2020-11-15'
+  link: https://doi.org/ghk69k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-12158-w
+  title: 'Author Correction: Association study in African-admixed populations across
+    the Americas recapitulates asthma risk loci in non-African populations'
+  authors:
+  - Michelle Daya
+  - Nicholas Rafaels
+  - Tonya M. Brunetti
+  - Sameer Chavan
+  - Albert M. Levin
+  - Aniket Shetty
+  - Christopher R. Gignoux
+  - Meher Preethi Boorgula
+  - Genevieve Wojcik
+  - Monica Campbell
+  - Candelaria Vergara
+  - Dara G. Torgerson
+  - Victor E. Ortega
+  - Ayo Doumatey
+  - Henry Richard Johnston
+  - Nathalie Acevedo
+  - Maria Ilma Araujo
+  - Pedro C. Avila
+  - Gillian Belbin
+  - Eugene Bleecker
+  - Carlos Bustamante
+  - Luis Caraballo
+  - Alvaro Cruz
+  - Georgia M. Dunston
+  - Celeste Eng
+  - Mezbah U. Faruque
+  - Trevor S. Ferguson
+  - Camila Figueiredo
+  - Jean G. Ford
+  - Weiniu Gan
+  - Pierre-Antoine Gourraud
+  - Nadia N. Hansel
+  - Ryan D. Hernandez
+  - Edwin Francisco Herrera-Paz
+  - "Silvia Jim\xE9nez"
+  - Eimear E. Kenny
+  - Jennifer Knight-Madden
+  - Rajesh Kumar
+  - Leslie A. Lange
+  - Ethan M. Lange
+  - Antoine Lizee
+  - Pissamai Maul
+  - Trevor Maul
+  - Alvaro Mayorga
+  - Deborah Meyers
+  - Dan L. Nicolae
+  - "Timothy D. O\u2019Connor"
+  - Ricardo Riccio Oliveira
+  - Christopher O. Olopade
+  - Olufunmilayo Olopade
+  - Zhaohui S. Qin
+  - Charles Rotimi
+  - Nicolas Vince
+  - Harold Watson
+  - Rainford J. Wilks
+  - James G. Wilson
+  - Steven Salzberg
+  - Carole Ober
+  - Esteban G. Burchard
+  - L. Keoki Williams
+  - Terri H. Beaty
+  - Margaret A. Taub
+  - Ingo Ruczinski
+  - Rasika A. Mathias
+  - Kathleen C. Barnes
+  - Ayola Akim Adegnika
+  - Ganiyu Arinola
+  - Ulysse Ateba-Ngoa
+  - Gerardo Ayestas
+  - "Hrafnhildur Bjarnad\xF3ttir"
+  - Adolfo Correa
+  - Said Omar Leiva Erazo
+  - Marilyn G. Foreman
+  - Cassandra Foster
+  - Li Gao
+  - Jingjing Gao
+  - Leslie Grammer
+  - Mark Hansen
+  - Tina Hartert
+  - Yijuan Hu
+  - "Iain K\xF6nigsberg"
+  - Kwang-Youn A. Kim
+  - Pamela Landaverde-Torres
+  - Javier Marrugo
+  - Beatriz Martinez
+  - Rosella Martinez
+  - Luis F. Mayorga
+  - Delmy-Aracely Mejia-Mejia
+  - Catherine Meza
+  - Solomon Musani
+  - Shaila Musharoff
+  - Oluwafemi Oluwole
+  - Maria Pino-Yanes
+  - Hector Ramos
+  - Allan Saenz
+  - Maureen Samms-Vaughan
+  - Robert Schleimer
+  - Alan F. Scott
+  - Suyash S. Shringarpure
+  - Wei Song
+  - Zachary A. Szpiech
+  - Raul Torres
+  - Gloria Varela
+  - Olga Marina Vasquez
+  - Francisco M. De La Vega
+  - Lorraine B. Ware
+  - Maria Yazdanbakhsh
+  publisher: Nature Communications
+  date: '2019-09-04'
+  link: https://doi.org/gtt6fd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-08469-7
+  title: Association study in African-admixed populations across the Americas recapitulates
+    asthma risk loci in non-African populations
+  authors:
+  - Michelle Daya
+  - Nicholas Rafaels
+  - Tonya M. Brunetti
+  - Sameer Chavan
+  - Albert M. Levin
+  - Aniket Shetty
+  - Christopher R. Gignoux
+  - Meher Preethi Boorgula
+  - Genevieve Wojcik
+  - Monica Campbell
+  - Candelaria Vergara
+  - Dara G. Torgerson
+  - Victor E. Ortega
+  - Ayo Doumatey
+  - Henry Richard Johnston
+  - Nathalie Acevedo
+  - Maria Ilma Araujo
+  - Pedro C. Avila
+  - Gillian Belbin
+  - Eugene Bleecker
+  - Carlos Bustamante
+  - Luis Caraballo
+  - Alvaro Cruz
+  - Georgia M. Dunston
+  - Celeste Eng
+  - Mezbah U. Faruque
+  - Trevor S. Ferguson
+  - Camila Figueiredo
+  - Jean G. Ford
+  - Weiniu Gan
+  - Pierre-Antoine Gourraud
+  - Nadia N. Hansel
+  - Ryan D. Hernandez
+  - Edwin Francisco Herrera-Paz
+  - "Silvia Jim\xE9nez"
+  - Eimear E. Kenny
+  - Jennifer Knight-Madden
+  - Rajesh Kumar
+  - Leslie A. Lange
+  - Ethan M. Lange
+  - Antoine Lizee
+  - Pissamai Maul
+  - Trevor Maul
+  - Alvaro Mayorga
+  - Deborah Meyers
+  - Dan L. Nicolae
+  - "Timothy D. O\u2019Connor"
+  - Ricardo Riccio Oliveira
+  - Christopher O. Olopade
+  - Olufunmilayo Olopade
+  - Zhaohui S. Qin
+  - Charles Rotimi
+  - Nicolas Vince
+  - Harold Watson
+  - Rainford J. Wilks
+  - James G. Wilson
+  - Steven Salzberg
+  - Carole Ober
+  - Esteban G. Burchard
+  - L. Keoki Williams
+  - Terri H. Beaty
+  - Margaret A. Taub
+  - Ingo Ruczinski
+  - Rasika A. Mathias
+  - Kathleen C. Barnes
+  - Ayola Akim Adegnika
+  - Ganiyu Arinola
+  - Ulysse Ateba-Ngoa
+  - Gerardo Ayestas
+  - "Hrafnhildur Bjarnad\xF3ttir"
+  - Adolfo Correa
+  - Said Omar Leiva Erazo
+  - Marilyn G. Foreman
+  - Cassandra Foster
+  - Li Gao
+  - Jingjing Gao
+  - Leslie Grammer
+  - Mark Hansen
+  - Tina Hartert
+  - Yijuan Hu
+  - "Iain K\xF6nigsberg"
+  - Kwang-Youn A. Kim
+  - Pamela Landaverde-Torres
+  - Javier Marrugo
+  - Beatriz Martinez
+  - Rosella Martinez
+  - Luis F. Mayorga
+  - Delmy-Aracely Mejia-Mejia
+  - Catherine Meza
+  - Solomon Musani
+  - Shaila Musharoff
+  - Oluwafemi Oluwole
+  - Maria Pino-Yanes
+  - Hector Ramos
+  - Allan Saenz
+  - Maureen Samms-Vaughan
+  - Robert Schleimer
+  - Alan F. Scott
+  - Suyash S. Shringarpure
+  - Wei Song
+  - Zachary A. Szpiech
+  - Raul Torres
+  - Gloria Varela
+  - Olga Marina Vasquez
+  - Francisco M. De La Vega
+  - Lorraine B. Ware
+  - Maria Yazdanbakhsh
+  publisher: Nature Communications
+  date: '2019-02-20'
+  link: https://doi.org/ggcjkt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1165/rcmb.2018-0177OC
+  title: DNA Methylation Changes in Lung Immune Cells Are Associated with Granulomatous
+    Lung Disease
+  authors:
+  - Ivana V. Yang
+  - Iain Konigsberg
+  - Kristyn MacPhail
+  - Li Li
+  - Elizabeth J. Davidson
+  - Peggy M. Mroz
+  - Nabeel Hamzeh
+  - May Gillespie
+  - Lori J. Silveira
+  - Tasha E. Fingerlin
+  - Lisa A. Maier
+  publisher: American Journal of Respiratory Cell and Molecular Biology
+  date: '2019-01-01'
+  link: https://doi.org/gd4768
   plugin: sources.py
   file: sources.yaml
