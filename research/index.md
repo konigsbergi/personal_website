@@ -14,7 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Proteomic Networks and Related Genetic Variants Associated with Smoking and
+    Chronic Obstructive Pulmonary Disease" style="rich" %}
 
 {% include section.html %}
 
