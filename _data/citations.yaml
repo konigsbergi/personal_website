@@ -159,6 +159,7 @@
   link: https://doi.org/gtt6d5
   tags:
   - genetics
+  - software
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.11.20.567893
@@ -174,6 +175,9 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-11-21'
   link: https://doi.org/gtt589
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/04/07/2023.11.20.567893/F2.large.jpg
+  tags:
+  - software
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.10.30.564764
@@ -251,6 +255,9 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-11-02'
   link: https://doi.org/gtt6d6
+  tags:
+  - genetics
+  - software
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/acel.14025
@@ -266,6 +273,9 @@
   publisher: Aging Cell
   date: '2023-11-03'
   link: https://doi.org/gtt6d7
+  image: https://onlinelibrary.wiley.com/cms/asset/ba5b26aa-12b7-4099-b6f9-6a0737fb4fea/acel14025-fig-0001-m.jpg
+  tags:
+  - methylation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ajpa.24842
@@ -279,6 +289,8 @@
   publisher: American Journal of Biological Anthropology
   date: '2023-09-11'
   link: https://doi.org/gtt59b
+  tags:
+  - software
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/nu15163588
@@ -306,6 +318,10 @@
   publisher: Nutrients
   date: '2023-08-16'
   link: https://doi.org/gtt6d8
+  image: https://www.mdpi.com/nutrients/nutrients-15-03588/article_deploy/html/images/nutrients-15-03588-g002.png
+  tags:
+  - methylomics
+  - microbiome
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-023-34866-6
@@ -344,6 +360,9 @@
   publisher: Scientific Reports
   date: '2023-06-07'
   link: https://doi.org/gtt59c
+  tags:
+  - proteomics
+  - genetics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.01.26.525601
@@ -365,6 +384,10 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-01-27'
   link: https://doi.org/gtt59d
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/27/2023.01.26.525601/F4.large.jpg
+  tags:
+  - methylomics
+  - transcriptomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41366-022-01240-x
@@ -393,6 +416,9 @@
   publisher: International Journal of Obesity
   date: '2022-12-03'
   link: https://doi.org/grnr9m
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9990473/bin/nihms-1877748-f0002.jpg
+  tags:
+  - transcriptomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1165/rcmb.2022-0077OC
@@ -415,6 +441,11 @@
   publisher: American Journal of Respiratory Cell and Molecular Biology
   date: '2022-12-01'
   link: https://doi.org/gtt59f
+  image: https://www.atsjournals.org/na101/home/literatum/publisher/thoracic/journals/content/ajrcmb/2022/ajrcmb.2022.67.issue-6/rcmb.2022-0077oc/20221126/images/large/rcmb.2022-0077ocf4.jpeg
+  tags:
+  - proteomics
+  - transcriptomics
+  - methylomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s40246-022-00401-3
@@ -436,6 +467,8 @@
   publisher: Human Genomics
   date: '2022-07-27'
   link: https://doi.org/gtt6d9
+  tags:
+  - methylomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1164/rccm.202110-2308OC
@@ -470,6 +503,11 @@
   publisher: American Journal of Respiratory and Critical Care Medicine
   date: '2022-11-15'
   link: https://doi.org/gtt59g
+  image: https://www.atsjournals.org/na101/home/literatum/publisher/thoracic/journals/content/ajrccm/2022/ajrccm.2022.206.issue-10/rccm.202110-2308oc/20221102/images/large/rccm.202110-2308ocf1.jpeg
+  tags:
+  - transcriptomics
+  - methylomics
+  - genetics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/molbev/msac081
@@ -505,6 +543,8 @@
   publisher: American Journal of Respiratory Cell and Molecular Biology
   date: '2022-06-01'
   link: https://doi.org/gtt6fc
+  tags:
+  - editorial
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s43856-021-00042-y
@@ -544,6 +584,9 @@
   publisher: Communications Medicine
   date: '2021-10-26'
   link: https://doi.org/gqbxvz
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-021-00042-y/MediaObjects/43856_2021_42_Fig2_HTML.png?as=webp
+  tags:
+  - methylomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1183/16000617.0076-2021
@@ -555,6 +598,8 @@
   publisher: European Respiratory Review
   date: '2021-06-23'
   link: https://doi.org/gtt59h
+  tags:
+  - review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1165/rcmb.2020-0546OC
@@ -573,6 +618,11 @@
   publisher: American Journal of Respiratory Cell and Molecular Biology
   date: '2021-10-01'
   link: https://doi.org/gj7p22
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525208/bin/rcmb.2020-0546OCf4a.jpg
+  tags:
+  - proteomics
+  - transcriptomics
+  - methylomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/oby.23127
@@ -600,6 +650,10 @@
   publisher: Obesity
   date: '2021-04-03'
   link: https://doi.org/gtt59k
+  tags:
+  - methylomics
+  - metabolomics
+  - microbiome
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1183/13993003.03794-2020
@@ -619,6 +673,9 @@
   publisher: European Respiratory Journal
   date: '2021-02-18'
   link: https://doi.org/gtt59j
+  tags:
+  - scRNA-Seq
+  - ATAC-Seq
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.chest.2020.07.050
@@ -629,6 +686,8 @@
   publisher: Chest
   date: '2020-11-01'
   link: https://doi.org/gtt59n
+  tags:
+  - editorial
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1164/rccm.202001-0134OC
@@ -654,122 +713,8 @@
   publisher: American Journal of Respiratory and Critical Care Medicine
   date: '2020-11-15'
   link: https://doi.org/ghk69k
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41467-019-12158-w
-  title: 'Author Correction: Association study in African-admixed populations across
-    the Americas recapitulates asthma risk loci in non-African populations'
-  authors:
-  - Michelle Daya
-  - Nicholas Rafaels
-  - Tonya M. Brunetti
-  - Sameer Chavan
-  - Albert M. Levin
-  - Aniket Shetty
-  - Christopher R. Gignoux
-  - Meher Preethi Boorgula
-  - Genevieve Wojcik
-  - Monica Campbell
-  - Candelaria Vergara
-  - Dara G. Torgerson
-  - Victor E. Ortega
-  - Ayo Doumatey
-  - Henry Richard Johnston
-  - Nathalie Acevedo
-  - Maria Ilma Araujo
-  - Pedro C. Avila
-  - Gillian Belbin
-  - Eugene Bleecker
-  - Carlos Bustamante
-  - Luis Caraballo
-  - Alvaro Cruz
-  - Georgia M. Dunston
-  - Celeste Eng
-  - Mezbah U. Faruque
-  - Trevor S. Ferguson
-  - Camila Figueiredo
-  - Jean G. Ford
-  - Weiniu Gan
-  - Pierre-Antoine Gourraud
-  - Nadia N. Hansel
-  - Ryan D. Hernandez
-  - Edwin Francisco Herrera-Paz
-  - "Silvia Jim\xE9nez"
-  - Eimear E. Kenny
-  - Jennifer Knight-Madden
-  - Rajesh Kumar
-  - Leslie A. Lange
-  - Ethan M. Lange
-  - Antoine Lizee
-  - Pissamai Maul
-  - Trevor Maul
-  - Alvaro Mayorga
-  - Deborah Meyers
-  - Dan L. Nicolae
-  - "Timothy D. O\u2019Connor"
-  - Ricardo Riccio Oliveira
-  - Christopher O. Olopade
-  - Olufunmilayo Olopade
-  - Zhaohui S. Qin
-  - Charles Rotimi
-  - Nicolas Vince
-  - Harold Watson
-  - Rainford J. Wilks
-  - James G. Wilson
-  - Steven Salzberg
-  - Carole Ober
-  - Esteban G. Burchard
-  - L. Keoki Williams
-  - Terri H. Beaty
-  - Margaret A. Taub
-  - Ingo Ruczinski
-  - Rasika A. Mathias
-  - Kathleen C. Barnes
-  - Ayola Akim Adegnika
-  - Ganiyu Arinola
-  - Ulysse Ateba-Ngoa
-  - Gerardo Ayestas
-  - "Hrafnhildur Bjarnad\xF3ttir"
-  - Adolfo Correa
-  - Said Omar Leiva Erazo
-  - Marilyn G. Foreman
-  - Cassandra Foster
-  - Li Gao
-  - Jingjing Gao
-  - Leslie Grammer
-  - Mark Hansen
-  - Tina Hartert
-  - Yijuan Hu
-  - "Iain K\xF6nigsberg"
-  - Kwang-Youn A. Kim
-  - Pamela Landaverde-Torres
-  - Javier Marrugo
-  - Beatriz Martinez
-  - Rosella Martinez
-  - Luis F. Mayorga
-  - Delmy-Aracely Mejia-Mejia
-  - Catherine Meza
-  - Solomon Musani
-  - Shaila Musharoff
-  - Oluwafemi Oluwole
-  - Maria Pino-Yanes
-  - Hector Ramos
-  - Allan Saenz
-  - Maureen Samms-Vaughan
-  - Robert Schleimer
-  - Alan F. Scott
-  - Suyash S. Shringarpure
-  - Wei Song
-  - Zachary A. Szpiech
-  - Raul Torres
-  - Gloria Varela
-  - Olga Marina Vasquez
-  - Francisco M. De La Vega
-  - Lorraine B. Ware
-  - Maria Yazdanbakhsh
-  publisher: Nature Communications
-  date: '2019-09-04'
-  link: https://doi.org/gtt6fd
+  tags:
+  - transcriptomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-08469-7
@@ -886,6 +831,8 @@
   publisher: Nature Communications
   date: '2019-02-20'
   link: https://doi.org/ggcjkt
+  tags:
+  - genetics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1165/rcmb.2018-0177OC
@@ -906,5 +853,8 @@
   publisher: American Journal of Respiratory Cell and Molecular Biology
   date: '2019-01-01'
   link: https://doi.org/gd4768
+  tags:
+  - transcriptomics
+  - methylomics
   plugin: sources.py
   file: sources.yaml
