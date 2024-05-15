@@ -10,52 +10,116 @@
 - id: doi:10.1093/bioinformatics/btae148
   tags:
     - genetics
+    - software
 
 - id: doi:10.1101/2023.11.20.567893
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/04/07/2023.11.20.567893/F2.large.jpg
+  tags: 
+    - software
 
 - id: doi:10.1101/2023.10.30.564764
+  tags:
+    - genetics
+    - software
 
 - id: doi:10.1111/acel.14025
+  image: https://onlinelibrary.wiley.com/cms/asset/ba5b26aa-12b7-4099-b6f9-6a0737fb4fea/acel14025-fig-0001-m.jpg
+  tags:
+    - methylation
 
 - id: doi:10.1002/ajpa.24842
+  tags: 
+    - software
 
 - id: doi:10.3390/nu15163588
+  image: https://www.mdpi.com/nutrients/nutrients-15-03588/article_deploy/html/images/nutrients-15-03588-g002.png
+  tags:
+    - methylomics
+    - microbiome
 
 - id: doi:10.1038/s41598-023-34866-6
+  tags:
+    - proteomics
+    - genetics
 
 - id: doi:10.1101/2023.01.26.525601
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/27/2023.01.26.525601/F4.large.jpg
+  tags:
+    - methylomics
+    - transcriptomics
 
 - id: doi:10.1038/s41366-022-01240-x
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9990473/bin/nihms-1877748-f0002.jpg
+  tags:
+    - transcriptomics
 
 - id: doi:10.1165/rcmb.2022-0077OC
+  image: https://www.atsjournals.org/na101/home/literatum/publisher/thoracic/journals/content/ajrcmb/2022/ajrcmb.2022.67.issue-6/rcmb.2022-0077oc/20221126/images/large/rcmb.2022-0077ocf4.jpeg
+  tags:
+    - proteomics
+    - transcriptomics
+    - methylomics
 
 - id: doi:10.1186/s40246-022-00401-3
+  tags: 
+    - methylomics
 
 - id: doi:10.1164/rccm.202110-2308OC
+  image: https://www.atsjournals.org/na101/home/literatum/publisher/thoracic/journals/content/ajrccm/2022/ajrccm.2022.206.issue-10/rccm.202110-2308oc/20221102/images/large/rccm.202110-2308ocf1.jpeg
+  tags:
+    - transcriptomics
+    - methylomics
+    - genetics
 
 - id: doi:10.1093/molbev/msac081
 
 - id: doi:10.1165/rcmb.2022-0125ED
+  tags:
+    - editorial
 
 - id: doi:10.1038/s43856-021-00042-y
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-021-00042-y/MediaObjects/43856_2021_42_Fig2_HTML.png?as=webp
+  tags:
+    - methylomics
 
-- id: doi:10.1038/s43856-021-00042-y
+#might have skipped an important one here...
 
 - id: doi:10.1183/16000617.0076-2021
+  tags: 
+    - review
 
 - id: doi:10.1165/rcmb.2020-0546OC
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525208/bin/rcmb.2020-0546OCf4a.jpg
+  tags: 
+    - proteomics
+    - transcriptomics
+    - methylomics
 
 - id: doi:10.1002/oby.23127
-
+  tags: 
+    - methylomics
+    - metabolomics
+    - microbiome
+    
 - id: doi:10.1183/13993003.03794-2020
+  tags:
+    - scRNA-Seq
+    - ATAC-Seq
 
 - id: doi:10.1016/j.chest.2020.07.050
-
+  tags:
+    - editorial
+    
 - id: doi:10.1164/rccm.202001-0134OC
-
-- id: doi:10.1038/s41467-019-12158-w
+  tags:
+    - transcriptomics
 
 - id: doi:10.1038/s41467-019-08469-7
+  tags:
+    - genetics
 
 - id: doi:10.1165/rcmb.2018-0177OC
+  tags:
+    - transcriptomics
+    - methylomics
 
