@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am a research instructor in the Department of Biomedical Informatics at
+the University of Colorado - Anschutz Medical Campus. Please feel free to 
+contact me 
 
 {%
   include button.html
